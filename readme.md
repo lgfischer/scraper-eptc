@@ -10,7 +10,7 @@ Para mais informações sobre scraping, veja http://en.wikipedia.org/wiki/Web_sc
 Dados
 -----
 
-Caso você esteja interessado apenas no download dos dados, eles estão disponíveis no diretório `dados` deste projeto. 
+Caso você esteja interessado apenas no download dos dados, eles estão disponíveis no diretório `dados` deste projeto: https://raw.githubusercontent.com/lgfischer/scraper-eptc/master/dados/dados.json
 
 A execução do scraper é necessária apenas se você deseja garantir que possui a última versão dos dados publicada no site da EPTC. Os dados atualmente disponíveis com o projeto foram atualizados em 23 de maio de 2015.
 
@@ -20,7 +20,7 @@ Formato de Dados
 
 Os dados são salvos em formato JSON. Utilize um parser JSON da sua linguagem de preferência para realizar a leitura e processamento dos horários e itinerários.
 
-Ao realizar a abertura do arquivo `dados.json`, terá uma lista de objetos do tipo `Consorcio`, conforme referência à seguir. Como exemplo, verifique o arquivo `sample.json`, possui uma pequena fração do arquivo `dados.json`, com 2 consórcios e 3 linhas, formatado para melhor leitura.
+Ao realizar a abertura do arquivo `dados.json`, terá uma lista de objetos do tipo `Consorcio`, conforme referência à seguir. Como exemplo, verifique o arquivo `sample.json` (https://github.com/lgfischer/scraper-eptc/blob/master/dados/sample.json), possui uma pequena fração do arquivo `dados.json`, com 2 consórcios e 3 linhas, formatado para melhor leitura.
 
 Referência dos Tipos de objeto no arquivo `dados.json`
 
