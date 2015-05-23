@@ -1,0 +1,15 @@
+apply plugin: 'groovy'
+apply plugin: 'application'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'org.codehaus.groovy:groovy-all:2.3.10'
+    compile 'org.seleniumhq.selenium:selenium-java:2.45.0'
+    testCompile 'org.gperfutils:gprof:0.3.0-groovy-2.3'
+    testCompile 'junit:junit:4.12'
+}
+
+mainClassName  = "com.leonardofischer.eptc.EptcScraperApp"

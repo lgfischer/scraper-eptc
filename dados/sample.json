@@ -1,0 +1,3604 @@
+[
+    {
+        "nome": "Unibus",
+        "linhas": [
+            {
+                "urlItinerarios": "http://www.eptc.com.br/EPTC_Itinerarios/Cadastro.asp?Tipo=I&Linha=398-20&Veiculo=1&Sentido=0&Logradouro=0&Action=Nada",
+                "nome": "RAPIDA - BENTO",
+                "tabelasHorarios": [
+                    {
+                        "intervaloMin": 8,
+                        "intervaloMax": 23,
+                        "intervaloMed": 12,
+                        "direcao": "BAIRRO/CENTRO",
+                        "validade": "Dias \u00dateis",
+                        "horarios": [
+                            {
+                                "acessibilidade": false,
+                                "horario": "05:35"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "05:55"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "06:10"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:20"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:29"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "06:38"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:46"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:55"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:03"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:11"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:21"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:31"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "07:41"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:50"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:59"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:11"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "08:23"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:35"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:47"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:59"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:12"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "09:27"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:42"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:57"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "10:10"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:22"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:35"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:47"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:59"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:12"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:25"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "11:37"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:49"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "12:00"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:12"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:23"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:35"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:46"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:58"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:09"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:21"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "13:32"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:44"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "13:57"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:09"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:21"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:33"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:45"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:57"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:10"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:21"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "15:33"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:45"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:57"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "16:08"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:18"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:28"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:38"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:48"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:58"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:08"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "17:18"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:38"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "17:58"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:21"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:34"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:47"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "19:00"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "19:15"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "19:30"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "19:45"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "20:05"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "20:25"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "20:45"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "21:06"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "21:28"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "21:50"
+                            }
+                        ]
+                    },
+                    {
+                        "intervaloMin": 18,
+                        "intervaloMax": 19,
+                        "intervaloMed": 18,
+                        "direcao": "BAIRRO/CENTRO",
+                        "validade": "S\u00e1bados",
+                        "horarios": [
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:30"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:48"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "07:06"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:24"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:42"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:01"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:20"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "08:39"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:58"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:17"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:36"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:55"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "10:14"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:33"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:52"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:11"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:30"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:49"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "12:08"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:27"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:46"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:05"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:24"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:43"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:02"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:21"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:59"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "15:18"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:37"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:56"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:15"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:34"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "16:53"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:12"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:31"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:50"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:09"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "18:28"
+                            }
+                        ]
+                    },
+                    {
+                        "intervaloMin": 8,
+                        "intervaloMax": 22,
+                        "intervaloMed": 12,
+                        "direcao": "CENTRO/BAIRRO",
+                        "validade": "Dias \u00dateis",
+                        "horarios": [
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:20"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:40"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "06:55"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:08"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "07:28"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:48"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:56"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:04"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:14"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:24"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "08:34"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:43"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:52"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:04"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "09:16"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:28"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:39"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:51"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:02"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "10:17"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:32"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:47"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "11:00"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:12"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:25"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:37"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:49"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:02"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:15"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "12:27"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:39"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "12:50"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:02"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:13"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:25"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:36"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:48"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:59"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:11"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "14:22"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:34"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "14:47"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:59"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:11"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:23"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:35"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:47"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:00"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:11"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "16:23"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:35"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:47"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "16:58"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:08"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:18"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:28"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:38"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:48"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:58"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "18:08"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:18"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:28"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:38"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "18:48"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:58"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "19:11"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "19:24"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "19:37"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "19:50"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "20:03"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "20:18"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "20:33"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "20:53"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "21:13"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "21:33"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "21:54"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "22:13"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "22:35"
+                            }
+                        ]
+                    },
+                    {
+                        "intervaloMin": 18,
+                        "intervaloMax": 21,
+                        "intervaloMed": 18,
+                        "direcao": "CENTRO/BAIRRO",
+                        "validade": "S\u00e1bados",
+                        "horarios": [
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:15"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:33"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "07:51"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:09"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:27"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:48"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:07"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "09:26"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:45"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:04"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:23"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:42"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "11:01"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:20"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:39"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:58"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:17"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:36"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "12:55"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:14"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:33"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:52"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:11"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:30"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:49"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:08"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:27"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:46"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "16:05"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:24"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:43"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:02"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:21"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "17:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:59"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:18"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:37"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:56"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "19:15"
+                            }
+                        ]
+                    }
+                ],
+                "id": "398-20",
+                "itinerarios": [
+                    {
+                        "logradouros": [
+                            "TERM AV E JD OUTEIRAL",
+                            "AV. E - JARDIM OUTEIRAL/VIAMAO",
+                            "AV. C - JARDIM OUTEIRAL/VIAMAO",
+                            "AV. A - JARDIM OUTEIRAL/VIAMAO",
+                            "ESTR JOAO DE OLIVEIRA REMIAO",
+                            "AV BENTO GONCALVES                       (P.EXCL.CENTRAL                                    )",
+                            "AV JOAO PESSOA                           (P.EXCL.CENTRAL                                    )",
+                            "AV JOAO PESSOA",
+                            "AV SENADOR SALGADO FILHO",
+                            "TERMINAL SENADOR SALGADO FILHO"
+                        ],
+                        "direcao": "BAIRRO/CENTRO"
+                    },
+                    {
+                        "logradouros": [
+                            "TERMINAL SENADOR SALGADO FILHO",
+                            "AV SENADOR SALGADO FILHO",
+                            "AV BORGES DE MEDEIROS",
+                            "R ANTONIO KLINGER FILHO",
+                            "PCA BATALHAO SUEZ",
+                            "AV LOUREIRO DA SILVA",
+                            "AV JOAO PESSOA                           (P.EXCL.CENTRAL                                    )",
+                            "AV DA  AZENHA                                (P.EXCL.CENTRAL                                    )",
+                            "AV BENTO GONCALVES                       (P.EXCL.CENTRAL                                    )",
+                            "ESTR JOAO DE OLIVEIRA REMIAO",
+                            "AV. E - JARDIM OUTEIRAL/VIAMAO",
+                            "TERM AV E JD OUTEIRAL"
+                        ],
+                        "direcao": "CENTRO/BAIRRO"
+                    }
+                ],
+                "linhasRelacionadas": [
+                    "398-0",
+                    "398-1",
+                    "398-5",
+                    "398-6",
+                    "398-69",
+                    "398-55",
+                    "398-66",
+                    "398-7",
+                    "398-31",
+                    "398-52",
+                    "398-8",
+                    "398-94",
+                    "398-93",
+                    "398-98",
+                    "398-3",
+                    "398-4",
+                    "398-27",
+                    "398-28",
+                    "398-61",
+                    "398-71",
+                    "398-10"
+                ],
+                "urlHorarios": "http://www.eptc.com.br/EPTC_Itinerarios/Cadastro.asp?Tipo=TH&Linha=398-20&Veiculo=1&Sentido=0&Logradouro=0&Action=Nada",
+                "codigo": "R31"
+            }
+        ],
+        "url": "http://www.eptc.com.br/EPTC_Itinerarios/Linha.asp?cdEmp=23"
+    },
+    {
+        "nome": "Carris",
+        "linhas": [
+            {
+                "urlItinerarios": "http://www.eptc.com.br/EPTC_Itinerarios/Cadastro.asp?Tipo=I&Linha=343-0&Veiculo=1&Sentido=0&Logradouro=0&Action=Nada",
+                "nome": "CAMPUS / IPIRANGA",
+                "tabelasHorarios": [
+                    {
+                        "intervaloMin": 9,
+                        "intervaloMax": 20,
+                        "intervaloMed": 12,
+                        "direcao": "BAIRRO/CENTRO",
+                        "validade": "Dias \u00dateis",
+                        "horarios": [
+                            {
+                                "acessibilidade": false,
+                                "horario": "05:24"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "05:44"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:00"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "06:13"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "06:26"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:38"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:49"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:59"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:09"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:19"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:29"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "07:41"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "07:53"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "08:05"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "08:17"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:29"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:41"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:53"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:05"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:18"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:33"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "09:48"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:03"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "10:18"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:33"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:45"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:55"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:06"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "11:16"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:26"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "11:36"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:46"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:57"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:07"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:17"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:27"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:37"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "12:48"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:00"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "13:11"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:22"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "13:33"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:44"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:55"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:06"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "14:18"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:30"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "14:44"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:57"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "15:09"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:21"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "15:33"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:45"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:57"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:09"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "16:20"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:30"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "16:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:50"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:00"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "17:09"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "17:18"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "17:27"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:36"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:45"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:54"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:04"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "18:14"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:25"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:37"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:52"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "19:08"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "19:25"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "19:37"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "19:52"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "20:08"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "20:24"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "20:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "20:56"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "21:13"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "21:31"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "21:49"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "22:07"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "22:25"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "22:43"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "22:59"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "23:14"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "23:29"
+                            }
+                        ]
+                    },
+                    {
+                        "intervaloMin": 20,
+                        "intervaloMax": 30,
+                        "intervaloMed": 24,
+                        "direcao": "BAIRRO/CENTRO",
+                        "validade": "S\u00e1bados",
+                        "horarios": [
+                            {
+                                "acessibilidade": false,
+                                "horario": "05:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:10"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "06:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:05"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:25"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:45"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:05"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "08:27"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:49"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:11"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:33"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:55"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "10:17"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:39"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:01"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:21"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:41"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "12:01"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:21"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:43"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:05"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:27"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "13:49"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:11"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:33"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:55"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:17"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "15:39"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:01"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:23"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:45"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:07"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "17:31"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:57"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:24"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:52"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "19:21"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "19:50"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "20:20"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "20:50"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "21:20"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "21:50"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "22:20"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "22:50"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "23:20"
+                            }
+                        ]
+                    },
+                    {
+                        "intervaloMin": 30,
+                        "intervaloMax": 35,
+                        "intervaloMed": 30,
+                        "direcao": "BAIRRO/CENTRO",
+                        "validade": "Domingos",
+                        "horarios": [
+                            {
+                                "acessibilidade": true,
+                                "horario": "05:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:10"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:40"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "07:10"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:10"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:10"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:10"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "10:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:10"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:10"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "12:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:10"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:10"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "14:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:10"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:10"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "16:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:10"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:10"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "19:10"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "19:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "20:10"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "20:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "21:10"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "21:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "22:10"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "22:45"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "23:20"
+                            }
+                        ]
+                    },
+                    {
+                        "intervaloMin": 8,
+                        "intervaloMax": 16,
+                        "intervaloMed": 11,
+                        "direcao": "CENTRO/BAIRRO",
+                        "validade": "Dias \u00dateis",
+                        "horarios": [
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:06"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:20"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:31"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:43"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "06:53"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "07:02"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "07:10"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "07:18"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:26"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:34"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:42"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:50"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:58"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:08"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:18"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:28"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "08:40"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "08:52"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "09:04"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "09:17"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:30"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:42"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:54"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:06"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:18"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:31"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "10:45"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:00"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "11:15"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:30"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:42"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:52"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:02"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "12:12"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:22"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "12:32"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:42"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:53"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:04"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:14"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:24"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:34"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "13:45"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:57"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "14:08"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:19"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "14:30"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:41"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:52"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:03"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "15:15"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:27"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "15:41"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:54"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "16:06"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:17"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "16:29"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:41"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:53"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:05"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "17:17"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:27"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "17:37"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:47"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:57"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "18:06"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "18:15"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "18:24"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:33"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:43"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:54"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "19:05"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "19:16"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "19:27"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "19:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "19:54"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "20:09"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "20:24"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "20:39"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "20:53"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "21:07"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "21:21"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "21:37"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "21:52"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "22:08"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "22:22"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "22:36"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "22:52"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "23:08"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "23:22"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "23:36"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "23:50"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "00:05"
+                            }
+                        ]
+                    },
+                    {
+                        "intervaloMin": 19,
+                        "intervaloMax": 30,
+                        "intervaloMed": 23,
+                        "direcao": "CENTRO/BAIRRO",
+                        "validade": "S\u00e1bados",
+                        "horarios": [
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:20"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:50"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:10"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "07:30"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:51"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:11"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:30"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:50"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "09:12"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:34"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:56"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:18"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:40"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "11:02"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:25"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:47"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:07"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:27"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "12:47"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:07"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:29"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:51"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:13"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "14:35"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:57"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:19"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:41"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:03"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "16:25"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:47"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:09"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:31"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:53"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "18:17"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:43"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "19:10"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "19:38"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "20:07"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "20:35"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "21:05"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "21:35"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "22:05"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "22:35"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "23:05"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "23:35"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "00:05"
+                            }
+                        ]
+                    },
+                    {
+                        "intervaloMin": 30,
+                        "intervaloMax": 35,
+                        "intervaloMed": 30,
+                        "direcao": "CENTRO/BAIRRO",
+                        "validade": "Domingos",
+                        "horarios": [
+                            {
+                                "acessibilidade": true,
+                                "horario": "06:23"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:55"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:26"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "07:57"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:27"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:58"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:28"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:58"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:28"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:58"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "11:28"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:58"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:28"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:58"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "13:28"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:58"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:28"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:58"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "15:28"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:58"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:28"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:58"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "17:28"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:58"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:28"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:58"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "19:28"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "19:58"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "20:28"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "20:58"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "21:28"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "21:58"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "22:28"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "22:58"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "23:30"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "00:05"
+                            }
+                        ]
+                    }
+                ],
+                "id": "343-0",
+                "itinerarios": [
+                    {
+                        "logradouros": [
+                            "TERMINAL CAMPUS DA  AGRONOMIA",
+                            "LE CAMPUS DA AGRONOMIA-UFRGS",
+                            "AV BENTO GONCALVES",
+                            "AV BENTO GONCALVES                       (P.EXCL.CENTRAL                                    )",
+                            "AV ANTONIO CARVALHO",
+                            "AV IPIRANGA",
+                            "AV JOAO PESSOA                           (P.EXCL.CENTRAL                                    )",
+                            "R ANTONIO CARLOS GUIMARAES",
+                            "R ENG LUIZ ENGLERT",
+                            "LG PROF FRANCISCO DE P B DA ROCHA",
+                            "AV PAULO GAMA",
+                            "TUN NS DA CONCEICAO-ELEVADAS",
+                            "R DA  CONCEICAO",
+                            "AV MAUA",
+                            "AV BORGES DE MEDEIROS",
+                            "TERMINAL AV.BORGES DE MEDEIROS"
+                        ],
+                        "direcao": "BAIRRO/CENTRO"
+                    },
+                    {
+                        "logradouros": [
+                            "TERMINAL AV.BORGES DE MEDEIROS",
+                            "AV BORGES DE MEDEIROS",
+                            "AV JULIO DE CASTILHOS",
+                            "R DA  CONCEICAO",
+                            "TUN NS DA CONCEICAO-ELEVADAS",
+                            "R SARMENTO LEITE",
+                            "AV LOUREIRO DA SILVA",
+                            "LG ARCHYMEDES FORTINI",
+                            "AV JOAO PESSOA                           (P.EXCL.CENTRAL                                    )",
+                            "AV DA  AZENHA",
+                            "AV IPIRANGA",
+                            "AV ANTONIO CARVALHO",
+                            "AV BENTO GONCALVES                       (P.EXCL.CENTRAL                                    )",
+                            "LE CAMPUS DA AGRONOMIA-UFRGS",
+                            "TERMINAL CAMPUS DA  AGRONOMIA"
+                        ],
+                        "direcao": "CENTRO/BAIRRO"
+                    }
+                ],
+                "linhasRelacionadas": [
+                    "343-1",
+                    "343-12",
+                    "343-11"
+                ],
+                "urlHorarios": "http://www.eptc.com.br/EPTC_Itinerarios/Cadastro.asp?Tipo=TH&Linha=343-0&Veiculo=1&Sentido=0&Logradouro=0&Action=Nada",
+                "codigo": "343"
+            },
+            {
+                "urlItinerarios": "http://www.eptc.com.br/EPTC_Itinerarios/Cadastro.asp?Tipo=I&Linha=343-1&Veiculo=1&Sentido=0&Logradouro=0&Action=Nada",
+                "nome": "UNIVERSITARIA-DIRETA",
+                "tabelasHorarios": [
+                    {
+                        "intervaloMin": 6,
+                        "intervaloMax": 20,
+                        "intervaloMed": 10,
+                        "direcao": "BAIRRO/CENTRO",
+                        "validade": "Dias \u00dateis",
+                        "horarios": [
+                            {
+                                "acessibilidade": false,
+                                "horario": "05:55"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "06:10"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:20"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "06:30"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:50"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:00"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:10"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:18"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "07:30"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:42"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "07:53"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:03"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:13"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:23"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:35"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:47"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:59"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:11"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:23"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "09:35"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "09:48"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:01"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:15"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:27"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:38"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:48"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:58"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:06"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:14"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:22"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:30"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:38"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "11:46"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "11:54"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:01"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "12:08"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:15"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "12:22"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:30"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:38"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:46"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:55"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:04"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:14"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:24"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:35"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "13:47"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:59"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "14:10"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:21"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:32"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:43"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:54"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:05"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:15"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:25"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "15:35"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:45"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:55"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:04"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:14"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:24"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:32"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:50"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:58"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "17:06"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:14"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "17:22"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:30"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:38"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:46"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:54"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:02"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:10"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:18"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:27"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:36"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:45"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "18:55"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "19:07"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "19:19"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "19:31"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "19:43"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "19:56"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "20:09"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "20:24"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "20:40"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "20:56"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "21:11"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "21:26"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "21:39"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "21:48"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "21:56"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "22:04"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "22:10"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "22:16"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "22:22"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "22:33"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "22:46"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "23:06"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "23:24"
+                            }
+                        ]
+                    },
+                    {
+                        "intervaloMin": 20,
+                        "intervaloMax": 30,
+                        "intervaloMed": 24,
+                        "direcao": "BAIRRO/CENTRO",
+                        "validade": "S\u00e1bados",
+                        "horarios": [
+                            {
+                                "acessibilidade": true,
+                                "horario": "07:15"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:40"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "08:00"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:20"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "08:50"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "09:20"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:50"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:10"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "10:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:10"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:30"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:50"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "12:10"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:30"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:00"
+                            }
+                        ]
+                    },
+                    {
+                        "intervaloMin": 4,
+                        "intervaloMax": 23,
+                        "intervaloMed": 9,
+                        "direcao": "CENTRO/BAIRRO",
+                        "validade": "Dias \u00dateis",
+                        "horarios": [
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:30"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:43"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "06:49"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "06:53"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "06:58"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:02"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:06"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "07:10"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:15"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:19"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:25"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:31"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:36"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:42"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:48"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:54"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "08:00"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:06"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:12"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:18"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "08:24"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:31"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "08:41"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:52"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:03"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:14"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:25"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:37"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:49"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:01"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:13"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "10:25"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "10:39"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:53"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:07"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:18"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:28"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:38"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:48"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:56"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:04"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:12"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "12:20"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:28"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "12:36"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "12:44"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:51"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "12:59"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:08"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "13:16"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:24"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:32"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "13:50"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:00"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:10"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:20"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:30"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "14:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "14:50"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "15:00"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:11"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:22"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:33"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:44"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "15:55"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:06"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:17"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "16:27"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:37"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:47"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "16:57"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:06"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:15"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:24"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:33"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:42"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "17:50"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "17:58"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:05"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "18:13"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:22"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:30"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:38"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:46"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "18:54"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "19:02"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "19:10"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "19:19"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "19:29"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "19:39"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "19:49"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "19:59"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "20:11"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "20:23"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "20:35"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "20:48"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "21:00"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "21:11"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "21:24"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "21:38"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "21:53"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "22:08"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "22:21"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "22:32"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "22:43"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "22:55"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "23:05"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "23:17"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "23:36"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "23:59"
+                            }
+                        ]
+                    },
+                    {
+                        "intervaloMin": 20,
+                        "intervaloMax": 30,
+                        "intervaloMed": 24,
+                        "direcao": "CENTRO/BAIRRO",
+                        "validade": "S\u00e1bados",
+                        "horarios": [
+                            {
+                                "acessibilidade": true,
+                                "horario": "07:15"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "07:40"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "08:00"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "08:20"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "08:40"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "09:00"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "09:30"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "10:00"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:30"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "10:50"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "11:20"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "11:50"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:10"
+                            },
+                            {
+                                "acessibilidade": false,
+                                "horario": "12:30"
+                            },
+                            {
+                                "acessibilidade": true,
+                                "horario": "13:00"
+                            }
+                        ]
+                    }
+                ],
+                "id": "343-1",
+                "itinerarios": [
+                    {
+                        "logradouros": [
+                            "TERMINAL CAMPUS DA AGRONOMIA",
+                            "LE CAMPUS DA AGRONOMIA-UFRGS",
+                            "AV BENTO GONCALVES",
+                            "AV BENTO GONCALVES                       (P.EXCL.CENTRAL                                    )",
+                            "AV ANTONIO CARVALHO",
+                            "AV IPIRANGA",
+                            "R JOAO GUIMARAES",
+                            "AV PROTASIO ALVES                        (P.EXCL.CENTRAL                                    )",
+                            "AV OSVALDO ARANHA                        (P.EXCL.CENTRAL                                    )",
+                            "TUN NS DA CONCEICAO-ELEVADAS",
+                            "R SARMENTO LEITE",
+                            "R DA  CONCEICAO",
+                            "LG EDGAR KOETZ",
+                            "AV MAUA",
+                            "AV BORGES DE MEDEIROS",
+                            "TERMINAL AV.BORGES DE MEDEIROS"
+                        ],
+                        "direcao": "BAIRRO/CENTRO"
+                    },
+                    {
+                        "logradouros": [
+                            "TERMINAL AV.BORGES DE MEDEIROS",
+                            "AV BORGES DE MEDEIROS",
+                            "AV JULIO DE CASTILHOS",
+                            "R DA  CONCEICAO",
+                            "TUN NS DA CONCEICAO-ELEVADAS",
+                            "R SARMENTO LEITE",
+                            "AV OSVALDO ARANHA                        (P.EXCL.CENTRAL                                    )",
+                            "AV PROTASIO ALVES",
+                            "R SILVA SO",
+                            "AV IPIRANGA",
+                            "AV ANTONIO CARVALHO",
+                            "AV BENTO GONCALVES                       (P.EXCL.CENTRAL                                    )",
+                            "AV BENTO GONCALVES",
+                            "LE CAMPUS DA AGRONOMIA-UFRGS",
+                            "TERMINAL CAMPUS DA AGRONOMIA"
+                        ],
+                        "direcao": "CENTRO/BAIRRO"
+                    }
+                ],
+                "linhasRelacionadas": [
+                    "343-0",
+                    "343-12",
+                    "343-11"
+                ],
+                "urlHorarios": "http://www.eptc.com.br/EPTC_Itinerarios/Cadastro.asp?Tipo=TH&Linha=343-1&Veiculo=1&Sentido=0&Logradouro=0&Action=Nada",
+                "codigo": "D43"
+            }
+        ],
+        "url": "http://www.eptc.com.br/EPTC_Itinerarios/Linha.asp?cdEmp=3"
+    }
+]
